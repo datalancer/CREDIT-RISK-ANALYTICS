@@ -6,19 +6,19 @@ An end-to-end credit risk intelligence solution built in **Power BI** using the 
 
 ## 📸 Dashboard Preview
 
-### Page 1: Overview & Demographics
-![Overview & Demographics](assets/page1_overview_demographics.png)
+## 📂 Repository Files
 
-### Page 2: Trend & Risk Matrix
-![Trend & Risk Matrix](assets/page2_trend_risk_matrix.png)
+| File | Format | Description |
+| :--- | :---: | :--- |
+| **`Project Credit Risk Analytics Dashboard.pbix`** | Power BI (`.pbix`) | Interactive 2-page report with Power Query ETL, Star Schema, DAX measures, and AI Decomposition Tree |
+| **`Project Credit Risk Analytics Dashboard.pdf`** | Static Report (`.pdf`) | High-resolution exported executive report for quick viewing without Power BI Desktop |
+| **`Project Credit Risk Analytics Dashboard.mp4`** | Video Demo (`.mp4`) | Guided walkthrough demonstrating slicer filtering, bookmark reset, and root-cause drilldowns |
 
-## 🎬 Dashboard Walkthrough & Preview
-
-> **▶️ Watch the Interactive Demo:** [Click here to view the full dashboard walkthrough (`assets/dashboard_demo.mp4`)](assets/dashboard_demo.mp4)  
-> *(Tip: Replace this line by dragging & dropping your `.mp4` directly into GitHub's README editor to render an inline video player.)*
-
-### Page 1: Overview & Demographics &  Trend & Risk Matrix
-![Overview & Demographics](Project Credit Risk Analytics Dashboard.mp4)
+## 🚀 to Explore This Project
+1. **Quick Preview (No Software Required):** Watch the inline video walkthrough above or open the **`.pdf`** export directly in GitHub to review both dashboard pages.
+2. **Interactive Exploration in Power BI Desktop:**
+   ```bash
+   git clone [https://github.com/datalancer/CREDIT-RISK-ANALYTICS.git](https://github.com/datalancer/CREDIT-RISK-ANALYTICS.git)
 
 
 
